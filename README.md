@@ -2,8 +2,6 @@
 
 Download video files from vDimension to use on VLC/your favourite media player.
 
-### [Now available on the Microsoft Edge Add-ons Store!](https://microsoftedge.microsoft.com/addons/detail/vdimension-downloader/ppjlabpdincnlhlipodpjifgfeogimcn)
-
 ### Steps to install on Chrome
 
 **Chrome/Chromium**
